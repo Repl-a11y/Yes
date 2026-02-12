@@ -1,0 +1,16 @@
+{
+  "name": "larpbot",
+  "version": "1.0.0",
+  "description": "Discord bot with latency command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
